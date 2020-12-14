@@ -1,0 +1,12 @@
+C:\Users\wes_l\Documents\Aulas\Balta.Io\7196-Melfee\Melfee.Domain\bin\Debug\net5.0\Melfee.Domain.deps.json
+C:\Users\wes_l\Documents\Aulas\Balta.Io\7196-Melfee\Melfee.Domain\bin\Debug\net5.0\Melfee.Domain.dll
+C:\Users\wes_l\Documents\Aulas\Balta.Io\7196-Melfee\Melfee.Domain\bin\Debug\net5.0\ref\Melfee.Domain.dll
+C:\Users\wes_l\Documents\Aulas\Balta.Io\7196-Melfee\Melfee.Domain\bin\Debug\net5.0\Melfee.Domain.pdb
+C:\Users\wes_l\Documents\Aulas\Balta.Io\7196-Melfee\Melfee.Domain\obj\Debug\net5.0\Melfee.Domain.csprojAssemblyReference.cache
+C:\Users\wes_l\Documents\Aulas\Balta.Io\7196-Melfee\Melfee.Domain\obj\Debug\net5.0\Melfee.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wes_l\Documents\Aulas\Balta.Io\7196-Melfee\Melfee.Domain\obj\Debug\net5.0\Melfee.Domain.AssemblyInfoInputs.cache
+C:\Users\wes_l\Documents\Aulas\Balta.Io\7196-Melfee\Melfee.Domain\obj\Debug\net5.0\Melfee.Domain.AssemblyInfo.cs
+C:\Users\wes_l\Documents\Aulas\Balta.Io\7196-Melfee\Melfee.Domain\obj\Debug\net5.0\Melfee.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wes_l\Documents\Aulas\Balta.Io\7196-Melfee\Melfee.Domain\obj\Debug\net5.0\Melfee.Domain.dll
+C:\Users\wes_l\Documents\Aulas\Balta.Io\7196-Melfee\Melfee.Domain\obj\Debug\net5.0\ref\Melfee.Domain.dll
+C:\Users\wes_l\Documents\Aulas\Balta.Io\7196-Melfee\Melfee.Domain\obj\Debug\net5.0\Melfee.Domain.pdb
